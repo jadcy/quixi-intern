@@ -1,8 +1,7 @@
 # Jady Chan Quixi Take Home
-* Simple banner created at the top.
-* Created a form with a dropdown, textbox, and a signature pad.
 
 ## Form
+* Created a form with a dropdown, textbox, and a signature pad.
 * Form validation was made with alert for which fields are missing.
 
 ## Signature Pad
